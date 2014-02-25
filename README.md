@@ -1,7 +1,7 @@
 TUTORIALES-JAVA-PHP-MYSQL
 =========================
 
-Repositorio de la serie de Tutoriales [JAVA-PHP-MYSQL][1] de [Geeky Theory][3] creados por [Alejandro Esquiva][1]
+Repositorio de la serie de Tutoriales [JAVA-PHP-MYSQL][2] de [Geeky Theory][3] creados por [Alejandro Esquiva][1]
 
 Esta serie de tutoriales se va a componer de 6 tutoriales:
 <ul>
