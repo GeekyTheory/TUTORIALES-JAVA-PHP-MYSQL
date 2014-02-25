@@ -27,21 +27,21 @@ Esta serie de tutoriales se va a componer de 6 tutoriales:
 
 Los objetivos que nos proponemos con esta serie de tutoriales son los siguientes:
 
-MySQL
+<br>MySQL<br>
 
-Aprender a crear una base de datos en MySQL
-PHP
+Aprender a crear una base de datos en MySQL<br>
+<br>PHP<br>
 
-Aprender a insertar datos en nuestra base de datos
-Aprender a mostrar datos de nuestra base de datos
-Consolidar los conocimientos aprendidos en la serie de tutoriales JSON
-Mostrar los datos introducidos en la base de datos en pantalla
-JAVA
+Aprender a insertar datos en nuestra base de datos<br>
+Aprender a mostrar datos de nuestra base de datos<br>
+Consolidar los conocimientos aprendidos en la serie de tutoriales JSON<br>
+Mostrar los datos introducidos en la base de datos en pantalla<br>
+<br>JAVA<br>
 
-Crear JSON a partir de los datos introducidos por el usuario
-Enviar JSON vía GET en JAVA
-Enviar JSON vía POST en JAVA
-Obtener un JSON generado en PHP
+Crear JSON a partir de los datos introducidos por el usuario<br>
+Enviar JSON vía GET en JAVA<br>
+Enviar JSON vía POST en JAVA<br>
+Obtener un JSON generado en PHP<br>
 
 Los tutoriales se encuentran en @GeekyTheory en el siguiente enlace:
 
