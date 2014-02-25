@@ -67,5 +67,5 @@ Los tutoriales se encuentran en @GeekyTheory en el siguiente enlace:
 
 [1]: https://github.com/aesquiva
 [2]: http://geekytheory.com/category/java-php-mysql/
-[2]: http://geekytheory.com/
+[3]: http://geekytheory.com/
 
